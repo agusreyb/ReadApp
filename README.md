@@ -1,1 +1,1 @@
-# ReadApp
+[![build](https://github.com/algo2-unsam/tp-readapp-2024-grupo-13/actions/workflows/build.yml/badge.svg?branch=develop)](https://github.com/algo2-unsam/tp-readapp-2024-grupo-13/actions/workflows/build.yml)
